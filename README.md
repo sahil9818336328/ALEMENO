@@ -24,5 +24,5 @@ Alemeno is an innovative MERN-based courses platform designed to deliver a seaml
 5. **Personalized Stats Page:**
     - Alemeno provides users with a dedicated statistics page to view information such as the total number of users, the total number of courses the user is enrolled in, etc.
 
-Read the [documentation](https://www.notion.so/ALEMENO-COURSES-CHALLENGE-726f3097d3714ac5a2e905802c14ada5?pvs=4).
+Read the [documentation](https://www.notion.so/ALEMENO-COURSES-CHALLENGE-726f3097d3714ac5a2e905802c14ada5?pvs=4).  
 Watch the [video](https://www.loom.com/share/8df0eeb62cbd491dac7aaf4c8686f39a?sid=31988f02-386f-4019-a1ed-d16100ad223e).
