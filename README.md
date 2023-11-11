@@ -1,5 +1,7 @@
 # Alemeno Courses
 
+Live at - [https://alemeno-courses.onrender.com](https://alemeno-courses.onrender.com)
+
 ## Project Description
 
 Alemeno is an innovative MERN-based courses platform designed to deliver a seamless and enriching learning experience. With a robust authentication system employing JSON Web Tokens (JWT), Alemeno ensures the security and privacy of user data, guaranteeing a safe learning environment.
